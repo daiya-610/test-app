@@ -12,5 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "date-fns": "^2.25.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiya-610/test-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daiya-610/test-app/issues"
+  },
+  "homepage": "https://github.com/daiya-610/test-app#readme"
 }
